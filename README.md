@@ -18,3 +18,11 @@ Candidate Breakdown
 - Raymon Anthony Doane - 3.1% of the total votes totaling 11,606 votes
 
 Winner - Diana DeGette, 272,892 total votes, 73.8% of all votes
+
+
+
+
+
+
+
+Used the help of a friend the module work and Slack Overflow to help create this code.
